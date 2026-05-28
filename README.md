@@ -79,5 +79,5 @@ O sistema é voltado principalmente para escolas públicas e foca em:
 Aluno           | Matrícula
 --------------- | ------
 Pedro Conti     | 
-Cauê Trindade   | 
+Cauê Trindade   | 231019003
 Pedro Cirqueira | 231021351
