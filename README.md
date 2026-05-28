@@ -1,7 +1,5 @@
 # Leitura Quest
 
-## Sobre o projeto
-
 O Leitura Quest é uma plataforma digital gamificada criada com o objetivo de incentivar o hábito da leitura entre alunos do ensino fundamental e médio.
 
 O projeto busca transformar a experiência de leitura em algo mais interativo, moderno e atrativo para os jovens, utilizando elementos presentes em jogos e redes sociais, como rankings, recompensas, comunidades e sistemas de progressão.
