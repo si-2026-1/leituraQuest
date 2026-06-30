@@ -72,6 +72,12 @@ O sistema é voltado principalmente para escolas públicas e foca em:
 - Auxiliar no desenvolvimento da escrita e interpretação textual;
 - Utilizar tecnologia e gamificação como apoio educacional.
 
+## Protótipo:
+
+[Link do protótipo interativo no Figma:](https://www.figma.com/proto/rjbaggBX5KO1h9MFGqlRwL/LeituraQuest-v2?node-id=1-2&t=UhwDr5IbCGjGGX5f-1 "Link do protótipo animado")
+
+[Link do arquivo no Figma:](https://www.figma.com/design/rjbaggBX5KO1h9MFGqlRwL/LeituraQuest-v2?node-id=1-2&t=UhwDr5IbCGjGGX5f-1 "Link do arquivo Figma")
+
 ## Participantes
 
 Aluno           | Matrícula
