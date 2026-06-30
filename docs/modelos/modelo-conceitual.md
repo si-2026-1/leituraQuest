@@ -1,6 +1,6 @@
 # Modelo Conceitual
 
-<img src="/images/modelo-conceitual-brmodeloweb.png" alt="Modelo conceitual feito no brmodelo" />
+<img src="/images/modelo-conceitual-brmodeloweb2.png" alt="Modelo conceitual feito no brmodelo" />
 
 ## Link do modelo:
 
